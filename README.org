@@ -4,6 +4,6 @@ General-purpose keymap management à-la Emacs
 
 |---------+----------------------------------------------------|
 | source  | git:https://github.com/atlas-engineer/nkeymaps.git |
-| commit  | 04b303c                                            |
+| commit  | e3f369d                                            |
 | systems | nkeymaps                                           |
 |---------+----------------------------------------------------|
